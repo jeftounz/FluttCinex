@@ -1,6 +1,6 @@
-# flutter_application_2
+# flutterCinex
 
-A new Flutter project.
+Una aplicación de flutter donde puedes ver los nuevos estrenos.
 
 ## Getting Started
 
